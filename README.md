@@ -41,13 +41,19 @@ Minha paixão por tecnologia começou em 2004 com cursos de montagem de computad
 
 ## Características que me definem:
 
-🗣️ Comunicativo - Facilidade para trabalhar em equipe
-📚 Aprendiz constante - Sempre buscando novos conhecimentos
-⏰ Organizado e pontual - Experiência em gestão aplicada ao desenvolvimento
-🎯 Determinado - Superando desafios para alcançar objetivos
-📫 Vamos conversar?
+| 🗣️ Comunicativo - Facilidade para trabalhar em equipe                        |
+|------------------------------------------------------------------------------|
+| 📚 Aprendiz constante - Sempre buscando novos conhecimentos                  |
+| ⏰ Organizado e pontual - Experiência em gestão aplicada ao desenvolvimento  |
+| 🎯 Determinado - Superando desafios para alcançar objetivos                  |
+
+## 📫 Vamos conversar?
 Email: daniquints17@gmail.com
+
 LinkedIn: www.linkedin.com/in/daniel-quintana-21485620b
+
+
+
 "A persistência é o caminho do êxito. Cada linha de código é um passo mais próximo do meu objetivo!"
 
 ⭐️ From Daniel Quintana
