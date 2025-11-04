@@ -48,7 +48,7 @@ Minha paixão por tecnologia começou em 2004 com cursos de montagem de computad
 | 🎯 Determinado - Superando desafios para alcançar objetivos                  |
 
 ## 📫 Vamos conversar?
-Email: daniquints17@gmail.com
+Email: daniel.quintana.ti@gmail.com
 
 LinkedIn: www.linkedin.com/in/daniel-quintana-21485620b
 
